@@ -3,11 +3,7 @@
 <!--
 **Mohammed0Khater/Mohammed0Khater** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-IHere are some ideas to get you started:
-I'm currently working on practicing CCNA labs in Cisco Packet Tracer to apply some fundamental networking concepts. Hopefully I will be able to move on from that into Cloud Engineering by starting with the AWS Practiotioner-Associate Course or the AZ900 Course.
-
-You can reach me via my emial: mohammedkhater013@gmail.com
-Feel free to contact me about any better approaches to take for my roadmap.
+Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -18,3 +14,7 @@ Feel free to contact me about any better approaches to take for my roadmap.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm currently working on practicing CCNA labs in Cisco Packet Tracer to apply some fundamental networking concepts. Hopefully I will be able to move on from that into Cloud Engineering by starting with the AWS Practiotioner-Associate Course or the AZ900 Course.
+
+You can reach me via my email: mohammedkhater013@gmail.com
+Feel free to contact me about any better approaches to take for my roadmap.
